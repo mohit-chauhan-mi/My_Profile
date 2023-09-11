@@ -2,18 +2,47 @@
 
 A Flutter Test Task.
 
+## Introduction
+Welcome to the readme file of My Profile. This document provides an overview of the app, its features, and instructions for setting up and running the app on your local development environment.
+
+## App Description
+This Flutter app has a functionality of a Login, Profile and Edit Profile Pages.
+
+## Features
+- Login
+- Home (User Data)
+- Edit Profile (for User Data)
+
 ## Getting Started
+These instructions will help you set up the project on your local machine for development and testing purposes.
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Git for version control
+- Android Studio or Xcode for Android and iOS development
 
-A few resources to get you started if this is your first Flutter project:
+### Installation
+Clone the repository to your local machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  git clone: https://github.com/mohit-chauhan-mi/My_Profile
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Change the working directory to the project folder:
+
+```bash
+  cd my_profile
+```
+
+Install the app's dependencies using Flutter:
+
+```bash
+  flutter pub get
+```
+
+### Login Details:
+- Username/Email: mohit.chauhan@mindinventory.com
+- Password: mohit
 
 ## Flutter Test Instructions
 ```
